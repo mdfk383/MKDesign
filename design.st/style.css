@@ -18,11 +18,11 @@ p.introtext {
 } 
 
 #piclink {
-    font-size: 15pt;
-    color:white; 
+    font-size: 17pt;
+    color: white; 
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-style: italic;
     position: absolute;
     top: 600px;
-    right: 300px;
+    right: 298px;
 }
